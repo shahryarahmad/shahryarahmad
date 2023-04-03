@@ -5,6 +5,6 @@
  - 👀 I’m interested in Web and Cross Platform App Development
  - 🌱 I’m currently learning React
  - 💞️ I’m looking to collaborate on Rest Api creation
- - <span style= "vertical-align:middle; display:inline;vertical-align:middle;">📫 How to reach me</span><a href = "https://linkedin.com/in/shahryar-ahmad/"> <span style= "vertical-align:middle; display:inline;vertical-align:middle; font-weight: 400; text-decoration: none;">Shahryar Ahmad </span> <img src = "https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" style = "width:20px; vertical-align:middle;"></a>
+ - <span style= "vertical-align:middle; display:inline;vertical-align:middle;">📫 How to reach me</span><a href = "https://linkedin.com/in/shahryar-ahmad/" style=" text-decoration: none;"> <span style= "vertical-align:middle; display:inline;vertical-align:middle; font-weight: 700;">Shahryar Ahmad </span> <img src = "https://www.iconpacks.net/icons/2/free-linkedin-logo-icon-2430-thumb.png" style = "width:20px; vertical-align:middle;"></a>
 
 
