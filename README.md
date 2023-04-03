@@ -6,6 +6,6 @@ I'm a Full-Stack Developer from Canada. I have experience building and scaling w
     - 🌱 I’m currently learning React
     - 💞️ I’m looking to collaborate on Rest Api creation
     - 📫 How to reach me (www.linkedin.com/in/shahryar-ahmad)
-    [![build](https://drive.google.com/uc?export=view&id=1PRtsmcfscNfdcjPNLsVhXqBJGV1k226i)](www.linkedin.com/in/shahryar-ahmad)
+    [![linkedIn](https://drive.google.com/uc?export=view&id=1PRtsmcfscNfdcjPNLsVhXqBJGV1k226i)](www.linkedin.com/in/shahryar-ahmad)
 
 
