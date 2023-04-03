@@ -6,6 +6,6 @@
  - 🌱 I’m currently learning React
  - 💞️ I’m looking to collaborate on Rest Api creation
  - 
- - <a href = "https://linkedin.com/in/shahryar-ahmad/"><span style= "vertical-align:middle; display:inline;">📫 How to reach me</span><img src = "https://drive.google.com/uc?export=view&id=1PRtsmcfscNfdcjPNLsVhXqBJGV1k226i" style = "width:30%; vertical-align:middle;"></a>
+ - <a href = "https://linkedin.com/in/shahryar-ahmad/"><span style= "vertical-align:middle; display:inline;">📫 How to reach me</span><img src = "https://drive.google.com/uc?export=view&id=1PRtsmcfscNfdcjPNLsVhXqBJGV1k226i" style = "width:250px; vertical-align:middle;"></a>
 
 
