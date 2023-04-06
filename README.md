@@ -22,7 +22,7 @@ I am a Full-Stack Developer based in Pakistan, with a proven track record of bui
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Laravel Badge](https://img.shields.io/badge/-Laravel-007acc?style=for-the-badge&labelColor=black&logo=Laravel&logoColor=F72C1F)](#)
 [![Bootstrap Badge](https://img.shields.io/badge/-bootstrap-007acc?style=for-the-badge&labelColor=black&logo=Bootstrap&logoColor=8311F6)](#)
-[![Yii Badge](https://img.shields.io/badge/-php-8311F6?style=for-the-badge&labelColor=black&logo=PHP&logoColor=8311F6)](#)
+[![Yii Badge](https://img.shields.io/badge/-php-8311F6?style=for-the-badge&labelColor=black&logo=PHP&logoColor=blue)](#)
 <img align="left" alt="Git" width="35px" src="https://www.yiiframework.com/image/design/logo/yii3_sign.png" />
 
 [![Sql Badge](https://img.shields.io/badge/-mysql-007acc?style=for-the-badge&labelColor=black&logo=MySQL&logoColor=blue)](#)
@@ -31,11 +31,11 @@ I am a Full-Stack Developer based in Pakistan, with a proven track record of bui
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MySQL" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="Git" width="35px" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1280px-Trello_logo.svg.png" />
+<img align="left" alt="trello" width="60" src="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Trello_logo.svg/1280px-Trello_logo.svg.png" />
 
 
 <br />
