@@ -4,7 +4,7 @@ I am a Full-Stack Developer based in Pakistan, with a proven track record of bui
 
 :mailbox: Reach me out!
 
-[![Linkedin Badge](https://img.shields.io/badge/-ShahryarAhmad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahryar-ahmad/) [![Mail Badge](https://img.shields.io/badge/-shahrayardeveloper-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shahryardeveloper@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Shahryar%20Ahmad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahryar-ahmad/) [![Mail Badge](https://img.shields.io/badge/-shahrayardeveloper-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:shahryardeveloper@gmail.com)
 
 
 - 🔭 I’m currently working at @ShaheenCosmetics as a <strong>Full Stack Developer</strong>
@@ -42,7 +42,7 @@ I am a Full-Stack Developer based in Pakistan, with a proven track record of bui
 <br />
 
 #### Resume
-- :paperclip: [My Resume/CV](https://shahryarahmad.github.io/ShahryarPortfolio/)
+- :paperclip: [<img src= "https://img.shields.io/badge/Resume-Shahryar%20Ahmad-black">](https://shahryarahmad.github.io/ShahryarPortfolio/)
 
 
 #### Profile Visits 
