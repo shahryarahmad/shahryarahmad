@@ -45,8 +45,8 @@ I am a Full-Stack Developer based in Pakistan, with a proven track record of bui
 - :paperclip: [<img src= "https://img.shields.io/badge/Resume-Shahryar%20Ahmad-black">](https://shahryarahmad.github.io/ShahryarPortfolio/)
 
 
-#### Profile Visits 
+<!-- #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shahryarahmad)
 
-<!-- 
+-->
